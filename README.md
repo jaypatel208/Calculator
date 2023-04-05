@@ -1,4 +1,4 @@
-The GitHub repository contains the source code for an Android calculator app developed using Android Studio. The calculator features a simple blue and white theme, giving it a clean and minimalist look.
+This GitHub repository contains the source code for an Android calculator app developed using Android Studio. The calculator features a simple blue and white theme, giving it a clean and minimalist look.
 
 The calculator has basic math functions such as addition, subtraction, multiplication, and division, along with the ability to calculate percentages. The app also has buttons to clear the current input and to toggle between positive and negative numbers.
 
